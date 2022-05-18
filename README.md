@@ -1,4 +1,4 @@
-# samk
+# MakeBlock
 
 [![GitHub release](https://img.shields.io/github/release/lolmrdabbydab/MakeBlock-UltraSonicSensor.svg)](https://GitHub.com/lolmrdabbydab/MakeBlock-UltraSonicSensor/releases/)
 [![MIT license](https://img.shields.io/github/license/lolmrdabbydab/MakeBlock-UltraSonicSensor)](https://lolmrdabbydab.mit-license.org/)
